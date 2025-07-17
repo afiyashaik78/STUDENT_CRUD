@@ -16,6 +16,17 @@ This is a **Spring Boot CRUD application** to manage student records using **Spr
 ---
 
 ## 📁 Project Structure
+com.crud.student
+├── controller
+│ └── StudentController.java
+├── model
+│ └── Student.java
+├── service
+│ └── StudentService.java
+│ └── StudentServiceImpl.java
+├── repository
+│ └── StudentRepository.java
+└── StudentCrudApplication.java
 
 
 ---
