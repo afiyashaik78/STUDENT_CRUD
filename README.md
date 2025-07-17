@@ -42,7 +42,7 @@ This is a **Spring Boot CRUD application** to manage student records using **Spr
 
 ### 📋 Get All Students
 
-![Get All Students](screenshots/Read.PNG)
+![Get All Students](screenshots/read.PNG)
 
 ### 🔍 Get Student By ID
 
