@@ -63,9 +63,7 @@ This is a **Spring Boot CRUD application** to manage student records using **Spr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/student-crud-api.git
-   cd student-crud-api
-
+   git clone https://github.com/afiyashaik78/STUDENT_CRUD.git
 2.Set up MySQL Database:
 
 Create a database named student_db
